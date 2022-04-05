@@ -1,16 +1,15 @@
-### Hi there 👋
+# >Hello World!</br>Eu sou Leonardo Ribeiro.
+Sou um estudante atualmente matriculado na PUC Minas, cursando Sistemas de Informação.</br>
+Tenho muito interesse em me introduzir no mercado e aprender novas tecnologias.
+## Linguagens e Ferramentas:
+- HTML
+- CSS
+- SASS
+- JavaScript
+- Java
+- Blender
+- Gimp
 
-<!--
-**ArquiRibeiro/ArquiRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato:
+[E-mail](mailto:leonardoriband@gmail.com)</br>
+[LinkedIn](https://www.linkedin.com/in/leonardo-ribeiro-80ba40227/)
