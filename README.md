@@ -1,7 +1,5 @@
-# Hello World!
-# Eu sou Leonardo Ribeiro.
-Sou um estudante atualmente matriculado na PUC Minas, cursando Sistemas de Informação.</br>
-Tenho muito interesse em me introduzir no mercado e aprender novas tecnologias.
+# Hello World! </br> Eu sou Leonardo Ribeiro.
+Sou um estudante atualmente matriculado na PUC Minas, cursando Sistemas de Informação. Tenho muito interesse em me introduzir no mercado e aprender novas tecnologias.
 
 ## :globe_with_meridians: Conhecimentos Web:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,7 +24,7 @@ Tenho muito interesse em me introduzir no mercado e aprender novas tecnologias.
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arquiribeiro&layout=donut&size_weight=0&count_weight=1&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arquiribeiro&layout=donut&size_weight=0&count_weight=1&langs_count=10&hide=html,css)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Contato:
 [E-mail](mailto:leonardoriband@gmail.com)</br>
